@@ -1,0 +1,20 @@
+package main
+
+import (
+	"fmt"
+	"os/exec"
+)
+
+func converter() {
+	// Создаем объект типа Cmd
+	cmd := exec.Command("C:/Users/Lenovo/GolandProjects/Diplom/venv/Scripts/python.exe", "converter.py")
+
+	// Запускаем команду и ждем, пока она завершится
+	err := cmd.Run()
+	if err != nil {
+		fmt.Println("Ошибка запуска скрипта:", err)
+		return
+	}
+
+	fmt.Println("Скрипт конвертации успешно выполнен")
+}

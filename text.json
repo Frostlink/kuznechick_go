@@ -1,0 +1,681 @@
+{
+ "done": true,
+ "response": {
+  "@type": "type.googleapis.com/yandex.cloud.ai.stt.v2.LongRunningRecognitionResponse",
+  "chunks": [
+   {
+    "alternatives": [
+     {
+      "words": [
+       {
+        "startTime": "1.039s",
+        "endTime": "1.079s",
+        "word": "в",
+        "confidence": 1
+       },
+       {
+        "startTime": "1.120s",
+        "endTime": "1.899s",
+        "word": "провинциальном",
+        "confidence": 1
+       },
+       {
+        "startTime": "1.959s",
+        "endTime": "2.539s",
+        "word": "городке",
+        "confidence": 1
+       },
+       {
+        "startTime": "2.639s",
+        "endTime": "2.799s",
+        "word": "был",
+        "confidence": 1
+       },
+       {
+        "startTime": "2.879s",
+        "endTime": "3.279s",
+        "word": "праздник",
+        "confidence": 1
+       },
+       {
+        "startTime": "3.379s",
+        "endTime": "3.699s",
+        "word": "узыка",
+        "confidence": 1
+       },
+       {
+        "startTime": "3.759s",
+        "endTime": "4.710s",
+        "word": "звучала",
+        "confidence": 1
+       }
+      ],
+      "text": "В провинциальном городке был праздник узыка звучала",
+      "confidence": 1
+     }
+    ],
+    "channelTag": "1"
+   },
+   {
+    "alternatives": [
+     {
+      "words": [
+       {
+        "startTime": "4.809s",
+        "endTime": "4.829s",
+        "word": "а",
+        "confidence": 1
+       },
+       {
+        "startTime": "4.850s",
+        "endTime": "4.969s",
+        "word": "вот",
+        "confidence": 1
+       },
+       {
+        "startTime": "4.990s",
+        "endTime": "5.009s",
+        "word": "в",
+        "confidence": 1
+       },
+       {
+        "startTime": "5.069s",
+        "endTime": "5.549s",
+        "word": "ликующей",
+        "confidence": 1
+       },
+       {
+        "startTime": "5.629s",
+        "endTime": "6.330s",
+        "word": "толпе",
+        "confidence": 1
+       },
+       {
+        "startTime": "6.409s",
+        "endTime": "6.729s",
+        "word": "возник",
+        "confidence": 1
+       },
+       {
+        "startTime": "6.809s",
+        "endTime": "7.249s",
+        "word": "зловещий",
+        "confidence": 1
+       },
+       {
+        "startTime": "7.309s",
+        "endTime": "7.469s",
+        "word": "лик",
+        "confidence": 1
+       },
+       {
+        "startTime": "7.549s",
+        "endTime": "8.340s",
+        "word": "бродяги",
+        "confidence": 1
+       }
+      ],
+      "text": "А вот в ликующей толпе возник зловещий лик бродяги",
+      "confidence": 1
+     }
+    ],
+    "channelTag": "1"
+   },
+   {
+    "alternatives": [
+     {
+      "words": [
+       {
+        "startTime": "8.599s",
+        "endTime": "8.680s",
+        "word": "он",
+        "confidence": 1
+       },
+       {
+        "startTime": "8.779s",
+        "endTime": "9.020s",
+        "word": "шел",
+        "confidence": 1
+       },
+       {
+        "startTime": "9.119s",
+        "endTime": "9.239s",
+        "word": "как",
+        "confidence": 1
+       },
+       {
+        "startTime": "9.279s",
+        "endTime": "9.599s",
+        "word": "будто",
+        "confidence": 1
+       },
+       {
+        "startTime": "9.659s",
+        "endTime": "9.759s",
+        "word": "бы",
+        "confidence": 1
+       },
+       {
+        "startTime": "9.820s",
+        "endTime": "10.239s",
+        "word": "один",
+        "confidence": 1
+       },
+       {
+        "startTime": "10.359s",
+        "endTime": "10.659s",
+        "word": "толпа",
+        "confidence": 1
+       },
+       {
+        "startTime": "10.719s",
+        "endTime": "10.859s",
+        "word": "его",
+        "confidence": 1
+       },
+       {
+        "startTime": "10.919s",
+        "endTime": "10.979s",
+        "word": "не",
+        "confidence": 1
+       },
+       {
+        "startTime": "11.040s",
+        "endTime": "11.840s",
+        "word": "замечала",
+        "confidence": 1
+       }
+      ],
+      "text": "Он шел как будто бы 1 толпа его не замечала",
+      "confidence": 1
+     }
+    ],
+    "channelTag": "1"
+   },
+   {
+    "alternatives": [
+     {
+      "words": [
+       {
+        "startTime": "12.080s",
+        "endTime": "12.119s",
+        "word": "и",
+        "confidence": 1
+       },
+       {
+        "startTime": "12.159s",
+        "endTime": "12.299s",
+        "word": "как",
+        "confidence": 1
+       },
+       {
+        "startTime": "12.359s",
+        "endTime": "12.479s",
+        "word": "то",
+        "confidence": 1
+       },
+       {
+        "startTime": "12.539s",
+        "endTime": "12.940s",
+        "word": "странно",
+        "confidence": 1
+       },
+       {
+        "startTime": "12.999s",
+        "endTime": "13.060s",
+        "word": "на",
+        "confidence": 1
+       },
+       {
+        "startTime": "13.099s",
+        "endTime": "13.459s",
+        "word": "него",
+        "confidence": 1
+       },
+       {
+        "startTime": "13.539s",
+        "endTime": "13.979s",
+        "word": "смотрели",
+        "confidence": 1
+       },
+       {
+        "startTime": "14.039s",
+        "endTime": "14.359s",
+        "word": "местные",
+        "confidence": 1
+       },
+       {
+        "startTime": "14.440s",
+        "endTime": "15.120s",
+        "word": "собаки",
+        "confidence": 1
+       }
+      ],
+      "text": "И как то странно на него смотрели местные собаки",
+      "confidence": 1
+     }
+    ],
+    "channelTag": "1"
+   },
+   {
+    "alternatives": [
+     {
+      "words": [
+       {
+        "startTime": "15.519s",
+        "endTime": "15.559s",
+        "word": "в",
+        "confidence": 1
+       },
+       {
+        "startTime": "15.620s",
+        "endTime": "15.959s",
+        "word": "черном",
+        "confidence": 1
+       },
+       {
+        "startTime": "16.059s",
+        "endTime": "16.659s",
+        "word": "цилиндре",
+        "confidence": 1
+       },
+       {
+        "startTime": "16.779s",
+        "endTime": "16.860s",
+        "word": "на",
+        "confidence": 1
+       },
+       {
+        "startTime": "16.899s",
+        "endTime": "17.159s",
+        "word": "ряде",
+        "confidence": 1
+       },
+       {
+        "startTime": "17.199s",
+        "endTime": "17.840s",
+        "word": "старинных",
+        "confidence": 1
+       },
+       {
+        "startTime": "17.919s",
+        "endTime": "17.959s",
+        "word": "в",
+        "confidence": 1
+       },
+       {
+        "startTime": "18.120s",
+        "endTime": "18.399s",
+        "word": "город",
+        "confidence": 1
+       },
+       {
+        "startTime": "18.439s",
+        "endTime": "18.559s",
+        "word": "на",
+        "confidence": 1
+       },
+       {
+        "startTime": "18.600s",
+        "endTime": "19.059s",
+        "word": "праздник",
+        "confidence": 1
+       },
+       {
+        "startTime": "19.179s",
+        "endTime": "19.520s",
+        "word": "пучек",
+        "confidence": 1
+       },
+       {
+        "startTime": "19.620s",
+        "endTime": "20.020s",
+        "word": "путник",
+        "confidence": 1
+       },
+       {
+        "startTime": "20.100s",
+        "endTime": "20.299s",
+        "word": "очень",
+        "confidence": 1
+       },
+       {
+        "startTime": "20.339s",
+        "endTime": "20.999s",
+        "word": "спешил",
+        "confidence": 1
+       }
+      ],
+      "text": "В черном цилиндре на ряде старинных в город на праздник пучек путник очень спешил",
+      "confidence": 1
+     }
+    ],
+    "channelTag": "1"
+   },
+   {
+    "alternatives": [
+     {
+      "words": [
+       {
+        "startTime": "21.359s",
+        "endTime": "21.740s",
+        "word": "пагран",
+        "confidence": 1
+       },
+       {
+        "startTime": "21.800s",
+        "endTime": "22.659s",
+        "word": "пробирался",
+        "confidence": 1
+       },
+       {
+        "startTime": "22.759s",
+        "endTime": "22.799s",
+        "word": "и",
+        "confidence": 1
+       },
+       {
+        "startTime": "22.860s",
+        "endTime": "23.719s",
+        "word": "улыбался",
+        "confidence": 1
+       },
+       {
+        "startTime": "23.820s",
+        "endTime": "23.919s",
+        "word": "но",
+        "confidence": 1
+       },
+       {
+        "startTime": "23.979s",
+        "endTime": "24.259s",
+        "word": "камень",
+        "confidence": 1
+       },
+       {
+        "startTime": "24.319s",
+        "endTime": "24.759s",
+        "word": "сорвался",
+        "confidence": 1
+       },
+       {
+        "startTime": "24.819s",
+        "endTime": "24.840s",
+        "word": "в",
+        "confidence": 1
+       },
+       {
+        "startTime": "24.879s",
+        "endTime": "25.219s",
+        "word": "пропасть",
+        "confidence": 1
+       },
+       {
+        "startTime": "25.299s",
+        "endTime": "25.600s",
+        "word": "горных",
+        "confidence": 1
+       },
+       {
+        "startTime": "25.659s",
+        "endTime": "26.460s",
+        "word": "вершин",
+        "confidence": 1
+       }
+      ],
+      "text": "Пагран пробирался и улыбался но камень сорвался в пропасть горных вершин",
+      "confidence": 1
+     }
+    ],
+    "channelTag": "1"
+   },
+   {
+    "alternatives": [
+     {
+      "words": [
+       {
+        "startTime": "26.479s",
+        "endTime": "26.539s",
+        "word": "был",
+        "confidence": 1
+       },
+       {
+        "startTime": "27.059s",
+        "endTime": "27.460s",
+        "word": "грязный",
+        "confidence": 1
+       },
+       {
+        "startTime": "27.499s",
+        "endTime": "27.759s",
+        "word": "плащ",
+        "confidence": 1
+       },
+       {
+        "startTime": "27.839s",
+        "endTime": "27.899s",
+        "word": "на",
+        "confidence": 1
+       },
+       {
+        "startTime": "27.960s",
+        "endTime": "28.080s",
+        "word": "нем",
+        "confidence": 1
+       },
+       {
+        "startTime": "28.139s",
+        "endTime": "28.519s",
+        "word": "одет",
+        "confidence": 1
+       },
+       {
+        "startTime": "28.640s",
+        "endTime": "29.119s",
+        "word": "цилиндр",
+        "confidence": 1
+       },
+       {
+        "startTime": "29.200s",
+        "endTime": "29.479s",
+        "word": "черный",
+        "confidence": 1
+       },
+       {
+        "startTime": "29.519s",
+        "endTime": "29.759s",
+        "word": "смят",
+        "confidence": 1
+       },
+       {
+        "startTime": "29.799s",
+        "endTime": "29.819s",
+        "word": "в",
+        "confidence": 1
+       },
+       {
+        "startTime": "29.839s",
+        "endTime": "30.599s",
+        "word": "гармошку",
+        "confidence": 1
+       }
+      ],
+      "text": "Был грязный плащ на нем одет цилиндр черный смят в гармошку",
+      "confidence": 1
+     }
+    ],
+    "channelTag": "1"
+   },
+   {
+    "alternatives": [
+     {
+      "words": [
+       {
+        "startTime": "30.799s",
+        "endTime": "31.019s",
+        "word": "себе",
+        "confidence": 1
+       },
+       {
+        "startTime": "31.079s",
+        "endTime": "31.199s",
+        "word": "под",
+        "confidence": 1
+       },
+       {
+        "startTime": "31.239s",
+        "endTime": "31.459s",
+        "word": "ноги",
+        "confidence": 1
+       },
+       {
+        "startTime": "31.519s",
+        "endTime": "31.600s",
+        "word": "он",
+        "confidence": 1
+       },
+       {
+        "startTime": "31.659s",
+        "endTime": "32.199s",
+        "word": "глядел",
+        "confidence": 1
+       },
+       {
+        "startTime": "32.340s",
+        "endTime": "32.379s",
+        "word": "а",
+        "confidence": 1
+       },
+       {
+        "startTime": "32.399s",
+        "endTime": "32.419s",
+        "word": "в",
+        "confidence": 1
+       },
+       {
+        "startTime": "32.479s",
+        "endTime": "32.820s",
+        "word": "кулаке",
+        "confidence": 1
+       },
+       {
+        "startTime": "32.899s",
+        "endTime": "33.300s",
+        "word": "сжимало",
+        "confidence": 1
+       },
+       {
+        "startTime": "33.399s",
+        "endTime": "34.199s",
+        "word": "маску",
+        "confidence": 1
+       }
+      ],
+      "text": "Себе под ноги он глядел а в кулаке сжимало маску",
+      "confidence": 1
+     }
+    ],
+    "channelTag": "1"
+   },
+   {
+    "alternatives": [
+     {
+      "words": [
+       {
+        "startTime": "34.579s",
+        "endTime": "34.679s",
+        "word": "но",
+        "confidence": 1
+       },
+       {
+        "startTime": "34.739s",
+        "endTime": "34.919s",
+        "word": "кто",
+        "confidence": 1
+       },
+       {
+        "startTime": "34.979s",
+        "endTime": "35.279s",
+        "word": "то",
+        "confidence": 1
+       },
+       {
+        "startTime": "35.379s",
+        "endTime": "35.779s",
+        "word": "крикнул",
+        "confidence": 1
+       },
+       {
+        "startTime": "35.839s",
+        "endTime": "36.099s",
+        "word": "вдруг",
+        "confidence": 1
+       },
+       {
+        "startTime": "36.179s",
+        "endTime": "36.779s",
+        "word": "привет",
+        "confidence": 1
+       },
+       {
+        "startTime": "36.859s",
+        "endTime": "37.559s",
+        "word": "повеселился",
+        "confidence": 1
+       },
+       {
+        "startTime": "37.599s",
+        "endTime": "37.619s",
+        "word": "б",
+        "confidence": 1
+       },
+       {
+        "startTime": "37.660s",
+        "endTime": "37.759s",
+        "word": "ты",
+        "confidence": 1
+       },
+       {
+        "startTime": "37.799s",
+        "endTime": "38.459s",
+        "word": "немножко",
+        "confidence": 1
+       },
+       {
+        "startTime": "38.560s",
+        "endTime": "38.839s",
+        "word": "такой",
+        "confidence": 1
+       },
+       {
+        "startTime": "38.919s",
+        "endTime": "39.259s",
+        "word": "веселый",
+        "confidence": 1
+       },
+       {
+        "startTime": "39.319s",
+        "endTime": "39.660s",
+        "word": "светлый",
+        "confidence": 1
+       },
+       {
+        "startTime": "39.700s",
+        "endTime": "39.960s",
+        "word": "день",
+        "confidence": 1
+       }
+      ],
+      "text": "Но кто то крикнул вдруг привет повеселился б ты немножко такой веселый светлый день",
+      "confidence": 1
+     }
+    ],
+    "channelTag": "1"
+   }
+  ]
+ },
+ "id": "e0375ivqv4gjk3a36qgf",
+ "createdAt": "2023-05-21T23:25:07Z",
+ "createdBy": "ajeq18m45hnuhpgn1u1u",
+ "modifiedAt": "2023-05-21T23:25:13Z"
+}
